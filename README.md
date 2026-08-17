@@ -2,7 +2,7 @@
 
 [Version française ci-dessous](#Version-française)
 
-![Dashboard Overview](Cleaning%20and%20Synthesis/dashboard_overview.png)
+![Dashboard Overview](Cleaning%20and%20Synthesis/Dashboards.JPG)
 
 ## Objective
 Design an analytical dashboard using LibreOffice Calc / Excel to evaluate global commercial performance, measure profitability across sales regions and product categories, and support executive decision-making.
@@ -34,7 +34,7 @@ Design an analytical dashboard using LibreOffice Calc / Excel to evaluate global
 
 ## Version française
 
-![Dashboard Overview](Cleaning%20and%20Synthesis/dashboard_overview.png)
+![Dashboard Overview](Cleaning%20and%20Synthesis/Dashboards.JPG)
 ## Objectif
 Concevoir un tableau de bord analytique sous LibreOffice Calc / Excel afin d'évaluer la performance commerciale globale, de mesurer la rentabilité par région et catégorie de produits, et d'apporter un appui à la prise de décision stratégique.
 
